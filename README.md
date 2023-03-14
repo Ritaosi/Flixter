@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://im2.ezgif.com/tmp/ezgif-2-2b34f07c67.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ezgif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -80,7 +80,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://im2.ezgif.com/tmp/ezgif-2-2b34f07c67.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Imgur   
+GIF created with ezgif   
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
