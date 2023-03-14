@@ -1,6 +1,6 @@
 # Project 2 - *Flixter*
 
-Submitted by: **Rita Osi **
+Submitted by: **Rita Osi**
 
 **Flixter** is a movie browsing app that displays movies and gives a brief information about them.
 
