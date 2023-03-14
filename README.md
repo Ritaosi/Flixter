@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im2.ezgif.com/tmp/ezgif-2-2b34f07c67.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Ritaosi/Flixter/blob/main/ezgif.com-video-to-gif%20(2).gif' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif  
