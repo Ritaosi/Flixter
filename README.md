@@ -10,9 +10,9 @@ Time spent: **11** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [X] Implement network call and table view to display a list of movies currently playing (title, description, image)
 - [X] App has a collection view with the same list of movies
-- [ ] Uses a tab bar controller to switch between collection view and table view screens
+- [X] Uses a tab bar controller to switch between collection view and table view screens
  
 The following **optional** features are implemented:
 
