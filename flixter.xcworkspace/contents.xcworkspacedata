@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:AlbumCell.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/riri/Desktop/Flixter/AlbumViewController.swift">
+   </FileRef>
+   <FileRef
       location = "group:flixter.xcodeproj">
    </FileRef>
    <FileRef

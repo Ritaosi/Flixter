@@ -21,6 +21,8 @@
 		502E25F129BF6C8000875389 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 502E25F029BF6C8000875389 /* Alamofire */; };
 		502E25F429BF836800875389 /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = 502E25F329BF836800875389 /* AlamofireImage */; };
 		502E25F629C022FE00875389 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502E25F529C022FE00875389 /* DetailViewController.swift */; };
+		502E267829C564DC00875389 /* AlbumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502E267729C564DC00875389 /* AlbumViewController.swift */; };
+		502E267B29C56C9300875389 /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502E267A29C56C9300875389 /* Album.swift */; };
 		638B8CC9CF6C74FDAF201C6B /* Pods_flixterTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F48B6AAF577AA804DF30096B /* Pods_flixterTests.framework */; };
 		C3F2ABA5C9BB380153517998 /* Pods_flixter_flixterUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BDA2796445F6F3CA7F066AE /* Pods_flixter_flixterUITests.framework */; };
 		C5FE0045AE52B025BF5DFF67 /* Pods_flixter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5CEBB5AC97BF1F66875F3E06 /* Pods_flixter.framework */; };
@@ -62,6 +64,8 @@
 		502E25EB29BE877200875389 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		502E25ED29BE9AE900875389 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 		502E25F529C022FE00875389 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		502E267729C564DC00875389 /* AlbumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AlbumViewController.swift; path = /Users/riri/Desktop/Flixter/AlbumViewController.swift; sourceTree = "<absolute>"; };
+		502E267A29C56C9300875389 /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
 		5CEBB5AC97BF1F66875F3E06 /* Pods_flixter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_flixter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E1CB7EDF3D4A9544BCD2C8D /* Pods-flixterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flixterTests.release.xcconfig"; path = "Target Support Files/Pods-flixterTests/Pods-flixterTests.release.xcconfig"; sourceTree = "<group>"; };
 		A629E97641CBA222EB56BE16 /* Pods-flixterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flixterTests.debug.xcconfig"; path = "Target Support Files/Pods-flixterTests/Pods-flixterTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -104,6 +108,8 @@
 		502E25AF29BE836B00875389 = {
 			isa = PBXGroup;
 			children = (
+				502E267929C56C2700875389 /* models */,
+				502E267729C564DC00875389 /* AlbumViewController.swift */,
 				502E25ED29BE9AE900875389 /* MovieCell.swift */,
 				502E25BA29BE836B00875389 /* flixter */,
 				502E25D129BE836C00875389 /* flixterTests */,
@@ -155,6 +161,14 @@
 				502E25DE29BE836C00875389 /* flixterUITestsLaunchTests.swift */,
 			);
 			path = flixterUITests;
+			sourceTree = "<group>";
+		};
+		502E267929C56C2700875389 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				502E267A29C56C9300875389 /* Album.swift */,
+			);
+			path = models;
 			sourceTree = "<group>";
 		};
 		6A4355AB68402E1FAB1E09AB /* Pods */ = {
@@ -433,6 +447,8 @@
 				502E25F629C022FE00875389 /* DetailViewController.swift in Sources */,
 				502E25EE29BE9AE900875389 /* MovieCell.swift in Sources */,
 				502E25EC29BE877200875389 /* MoviesViewController.swift in Sources */,
+				502E267829C564DC00875389 /* AlbumViewController.swift in Sources */,
+				502E267B29C56C9300875389 /* Album.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
